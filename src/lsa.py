@@ -10,7 +10,7 @@ from preprocess import preprocess
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
 DATA_PATH = PROJECT_ROOT / "data" / "postings.json"
 
-K_TOPICS = 100
+K_TOPICS = 250
 
 
 def load_postings():
