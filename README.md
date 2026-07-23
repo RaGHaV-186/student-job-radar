@@ -6,7 +6,7 @@ implemented from scratch and evaluated against hand-labelled queries.
 No `scikit-learn`, no `rank_bm25`, no vector database. TF-IDF, BM25 and LSA are
 written directly from their formulas; `numpy` is used only for the SVD.
 
-**Live app:** _(add Streamlit Cloud URL)_
+**Live app:** https://raghav-student-job-radar.streamlit.app/
 
 ---
 
