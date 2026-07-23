@@ -1,0 +1,235 @@
+
+======================================================================
+QUERY: machine learning intern
+======================================================================
+  [  8] (bm25,lsa,tfidf  ) Machine Learning Ops Engineer - Personalization (m|w|d)
+  [ 21] (bm25,tfidf      ) Abschluss- oder Projektarbeit im Bereich KI-basierter Tiefen
+  [ 26] (bm25,tfidf      ) Founding Growth Marketer - Intern (m/w/x)
+  [ 39] (bm25,tfidf      ) Wirtschaftsinformatiker für n8n, make, Zapier  - Vollzeit (m
+  [ 65] (bm25,lsa,tfidf  ) Senior Full-Stack Engineer (Python & .NET) (f/m/d)
+  [ 82] (lsa             ) Senior Data Platform Engineer (m/f/d)
+  [ 90] (tfidf           ) Working Student Social Media – Danish Market (m/f/d)
+  [ 91] (bm25,tfidf      ) Performance Creative Editor
+  [ 92] (bm25,tfidf      ) Performance Creative Editor
+  [ 95] (bm25,lsa,tfidf  ) Working Student Performance Marketing​  (m|w|d)
+  [168] (lsa             ) Senior Product Manager - House Owner & Service Request Acqui
+  [180] (lsa             ) Associate Product Manager, Delivery (m/f/d)
+  [188] (bm25            ) Inhouse It Consultant / Systeminformatiker (m/w/d) - Am Stan
+  [200] (lsa             ) Backend Engineer - POS
+  [220] (lsa             ) Senior Analytics Engineer - Run & Grow
+  [223] (lsa             ) Senior Software Developer (m/f/d) Java/Kotlin with Spring Bo
+  [235] (bm25,tfidf      ) (Senior) AI Engineer & Technical Project Lead (Köln) (w/d/m)
+  [281] (lsa             ) Forward Deployed Engineer - Integrations & Customer Success 
+
+======================================================================
+QUERY: ml intern
+======================================================================
+  [  8] (bm25,lsa,tfidf  ) Machine Learning Ops Engineer - Personalization (m|w|d)
+  [ 14] (bm25,tfidf      ) Junior Consultant Softwareentwicklung – Java, Spring*
+  [ 31] (bm25,tfidf      ) Founding Engineer (AI/ML) (f/m/x)
+  [ 39] (bm25,tfidf      ) Wirtschaftsinformatiker für n8n, make, Zapier  - Vollzeit (m
+  [ 82] (bm25,tfidf      ) Senior Data Platform Engineer (m/f/d)
+  [ 91] (bm25,lsa,tfidf  ) Performance Creative Editor
+  [ 92] (bm25,lsa,tfidf  ) Performance Creative Editor
+  [ 95] (lsa             ) Working Student Performance Marketing​  (m|w|d)
+  [111] (bm25,tfidf      ) Senior Implementation Manager (Hospital) (m/w/d)
+  [168] (lsa             ) Senior Product Manager - House Owner & Service Request Acqui
+  [180] (lsa             ) Associate Product Manager, Delivery (m/f/d)
+  [188] (bm25,tfidf      ) Inhouse It Consultant / Systeminformatiker (m/w/d) - Am Stan
+  [200] (lsa             ) Backend Engineer - POS
+  [220] (lsa             ) Senior Analytics Engineer - Run & Grow
+  [223] (lsa             ) Senior Software Developer (m/f/d) Java/Kotlin with Spring Bo
+  [281] (bm25,lsa,tfidf  ) Forward Deployed Engineer - Integrations & Customer Success 
+
+======================================================================
+QUERY: werkstudent python
+======================================================================
+  [ 37] (lsa             ) Werkstudent (m/w/d) Prozessmanagement & Customer Service
+  [ 60] (bm25,tfidf      ) [ES Sales] Werkstudent Product Marketing (m/w/d)
+  [ 65] (bm25,tfidf      ) Senior Full-Stack Engineer (Python & .NET) (f/m/d)
+  [ 84] (bm25,tfidf      ) Senior Python Engineer (m/f/d) - Network Planning
+  [146] (bm25,lsa,tfidf  ) Softwareexpert:in Python, C, C++ ROCKET SCIENCE - Satelliten
+  [160] (lsa             ) Customer Success Internship (m/w/d) - Software Startup
+  [169] (bm25,lsa,tfidf  ) Mini-Job / Werkstudent (m/w/d) in der IT-Montage
+  [198] (bm25,lsa,tfidf  ) Werkstudent (m/w/d) IT Help Desk & Anwendersupport
+  [222] (bm25,lsa,tfidf  ) Werkstudent:in Planung & Angebotserstellung (m/w/d) in Köln 
+  [235] (bm25,lsa        ) (Senior) AI Engineer & Technical Project Lead (Köln) (w/d/m)
+  [265] (lsa,tfidf       ) Werkstudent*in Marketing und Social Media
+  [274] (bm25,lsa,tfidf  ) Werkstudent IT Consultant (m/w/d) Test Automation - Hybrid (
+  [295] (bm25,lsa,tfidf  ) Influencer Marketing Manager - Paid & Affiliate (Werkstudent
+
+======================================================================
+QUERY: python developer intern
+======================================================================
+  [ 13] (lsa             ) Senior Frontend Developer mit Schwerpunkt UX/UI-Design*
+  [ 14] (lsa             ) Junior Consultant Softwareentwicklung – Java, Spring*
+  [ 51] (lsa             ) Data Engineer - Automotive (M/W/D) - SYSTEMS
+  [ 54] (lsa             ) Frontend-/UI-Entwickler React & Ionic (m/w/d)
+  [ 65] (bm25,tfidf      ) Senior Full-Stack Engineer (Python & .NET) (f/m/d)
+  [ 84] (bm25,tfidf      ) Senior Python Engineer (m/f/d) - Network Planning
+  [ 91] (bm25,lsa,tfidf  ) Performance Creative Editor
+  [ 92] (bm25,lsa,tfidf  ) Performance Creative Editor
+  [ 93] (bm25,lsa,tfidf  ) Senior Java Fullstack Developer (m/w/d)
+  [ 94] (bm25,lsa,tfidf  ) Senior Java Fullstack Developer mit technischem Fokus (m/w/d
+  [ 98] (lsa             ) Senior Backend Engineer (m/f/d)
+  [127] (tfidf           ) (Senior) Frontend Web Developer (w/m/d)
+  [146] (bm25,tfidf      ) Softwareexpert:in Python, C, C++ ROCKET SCIENCE - Satelliten
+  [223] (bm25,tfidf      ) Senior Software Developer (m/f/d) Java/Kotlin with Spring Bo
+  [235] (tfidf           ) (Senior) AI Engineer & Technical Project Lead (Köln) (w/d/m)
+  [243] (lsa             ) Golang Entwickler (m/w/d) - Remote (Deutschland)
+  [281] (bm25            ) Forward Deployed Engineer - Integrations & Customer Success 
+  [284] (bm25            ) Senior Consultant IT & Development (Inhouse) (w/m/d)
+
+======================================================================
+QUERY: working student ai engineer
+======================================================================
+  [ 26] (lsa             ) Founding Growth Marketer - Intern (m/w/x)
+  [ 31] (bm25,tfidf      ) Founding Engineer (AI/ML) (f/m/x)
+  [ 52] (bm25            ) Lead IT Operations Engineer (gn)
+  [ 55] (lsa             ) Chief of Staff (m/f/d)
+  [ 62] (tfidf           ) AI Platform Engineer (m/w/d)
+  [ 64] (bm25,tfidf      ) Working Student Business Development (m/f/d)
+  [ 65] (lsa             ) Senior Full-Stack Engineer (Python & .NET) (f/m/d)
+  [ 86] (bm25            ) SOC Automation (Senior) Consultant (m/w/d)
+  [ 90] (bm25            ) Working Student Social Media – Danish Market (m/f/d)
+  [ 95] (bm25,tfidf      ) Working Student Performance Marketing​  (m|w|d)
+  [ 98] (bm25            ) Senior Backend Engineer (m/f/d)
+  [109] (bm25,tfidf      ) Werkstudent KI-Entwicklung
+  [149] (tfidf           ) Product Manager Agentic AI Education (m/w/d)
+  [168] (lsa             ) Senior Product Manager - House Owner & Service Request Acqui
+  [180] (lsa             ) Associate Product Manager, Delivery (m/f/d)
+  [200] (bm25,lsa        ) Backend Engineer - POS
+  [220] (lsa             ) Senior Analytics Engineer - Run & Grow
+  [224] (lsa,tfidf       ) Tech & AI Specialist (Marketing Agency)
+  [235] (lsa,tfidf       ) (Senior) AI Engineer & Technical Project Lead (Köln) (w/d/m)
+  [256] (tfidf           ) Senior Microsoft AI & Copilot Engineer (m/w/d)
+  [273] (bm25,tfidf      ) Compiler / Software Engineer
+  [281] (lsa             ) Forward Deployed Engineer - Integrations & Customer Success 
+
+======================================================================
+QUERY: java developer intern
+======================================================================
+  [ 12] (lsa             ) Junior Consultant IT-Projektmanagement - Schwerpunkt Require
+  [ 13] (lsa             ) Senior Frontend Developer mit Schwerpunkt UX/UI-Design*
+  [ 14] (bm25,lsa,tfidf  ) Junior Consultant Softwareentwicklung – Java, Spring*
+  [ 39] (tfidf           ) Wirtschaftsinformatiker für n8n, make, Zapier  - Vollzeit (m
+  [ 91] (bm25,tfidf      ) Performance Creative Editor
+  [ 92] (bm25,tfidf      ) Performance Creative Editor
+  [ 93] (bm25,lsa,tfidf  ) Senior Java Fullstack Developer (m/w/d)
+  [ 94] (bm25,lsa,tfidf  ) Senior Java Fullstack Developer mit technischem Fokus (m/w/d
+  [117] (lsa             ) Produktionsingenieur für Mikroskopie-Systeme und Fluoreszenz
+  [127] (bm25,tfidf      ) (Senior) Frontend Web Developer (w/m/d)
+  [197] (bm25,tfidf      ) DevOps Softwareentwickler/in mit Karriereambitionen - jetzt 
+  [218] (bm25,lsa,tfidf  ) Java Softwareentwickler/in mit Karriereambitionen - jetzt mi
+  [223] (bm25,lsa,tfidf  ) Senior Software Developer (m/f/d) Java/Kotlin with Spring Bo
+  [243] (lsa             ) Golang Entwickler (m/w/d) - Remote (Deutschland)
+  [284] (bm25            ) Senior Consultant IT & Development (Inhouse) (w/m/d)
+  [287] (lsa             ) Test Engineer (m/w/d)
+
+======================================================================
+QUERY: softwareentwickler
+======================================================================
+  [ 14] (bm25,lsa,tfidf  ) Junior Consultant Softwareentwicklung – Java, Spring*
+  [ 62] (bm25,lsa,tfidf  ) AI Platform Engineer (m/w/d)
+  [ 94] (lsa             ) Senior Java Fullstack Developer mit technischem Fokus (m/w/d
+  [195] (lsa             ) Cloud Engineer (m/w/d) mit Karriereambitionen!
+  [196] (lsa             ) Platform Engineer (m/w/d) mit Karriereambitionen!
+  [197] (bm25,lsa,tfidf  ) DevOps Softwareentwickler/in mit Karriereambitionen - jetzt 
+  [218] (bm25,lsa,tfidf  ) Java Softwareentwickler/in mit Karriereambitionen - jetzt mi
+  [235] (lsa             ) (Senior) AI Engineer & Technical Project Lead (Köln) (w/d/m)
+  [243] (lsa             ) Golang Entwickler (m/w/d) - Remote (Deutschland)
+  [299] (lsa             ) (Senior) Project Lead - KI-Beratung  (m/w/d)
+
+======================================================================
+QUERY: entwickler berlin
+======================================================================
+  [ 13] (lsa             ) Senior Frontend Developer mit Schwerpunkt UX/UI-Design*
+  [ 14] (lsa             ) Junior Consultant Softwareentwicklung – Java, Spring*
+  [ 51] (bm25            ) Data Engineer - Automotive (M/W/D) - SYSTEMS
+  [ 54] (bm25,tfidf      ) Frontend-/UI-Entwickler React & Ionic (m/w/d)
+  [ 59] (lsa             ) Strategic Account Executive (m/w/x)
+  [ 93] (bm25,lsa        ) Senior Java Fullstack Developer (m/w/d)
+  [ 94] (lsa             ) Senior Java Fullstack Developer mit technischem Fokus (m/w/d
+  [109] (bm25,tfidf      ) Werkstudent KI-Entwicklung
+  [117] (bm25,lsa,tfidf  ) Produktionsingenieur für Mikroskopie-Systeme und Fluoreszenz
+  [124] (bm25,lsa,tfidf  ) Projektassistenz für Softwareprojekte (m/w/d) | Berlin-Mitte
+  [140] (bm25            ) AI Engineer (m/w/d) für Chat-to-CAD / LLM, Agents und multim
+  [160] (tfidf           ) Customer Success Internship (m/w/d) - Software Startup
+  [231] (bm25,tfidf      ) Praktikum im Bereich Influencer Marketing und Social Media
+  [238] (lsa             ) Werkstudent Sales (m/w/d)
+  [243] (bm25,lsa,tfidf  ) Golang Entwickler (m/w/d) - Remote (Deutschland)
+  [282] (tfidf           ) Berlin Office Manager/Team Assistant (m/f/d) – Part-Time (Te
+  [283] (tfidf           ) Berlin Office Manager/Team Assistant (m/f/d) – Part-Time (Te
+  [285] (bm25,lsa,tfidf  ) Technische Kundensupport Spezialist (Level 2 - Berlin oder D
+
+======================================================================
+QUERY: praktikum marketing
+======================================================================
+  [ 47] (lsa             ) Performance Marketing Manager (m/w/d)- Remote
+  [ 58] (lsa             ) B2B Marketing Manager (m/w/x)
+  [ 79] (lsa             ) Creative Strategist & Copywriter (m/w/d)
+  [103] (lsa             ) (Senior) Performance Marketing Manager (m/w/d)
+  [107] (bm25            ) Ausbildung als Medienkauffrau*mann Digital Print (w/m/d)
+  [112] (bm25,lsa,tfidf  ) Praktikum Vertrieb & Marketing (m/w/d) Pflichtpraktikum (6 M
+  [156] (bm25,lsa,tfidf  ) Marketing Generalist*in
+  [163] (tfidf           ) Artist Manager / Influencer Manager (m/w/d) BERLIN
+  [164] (bm25,tfidf      ) Junior Artist Manager / Influencer Manager (m/w/d)
+  [165] (tfidf           ) Artist Manager / Influencer Manager (m/w/d)
+  [166] (bm25,tfidf      ) Junior Artist Manager / Influencer Manager (m/w/d)
+  [179] (bm25,lsa,tfidf  ) Head of Marketing (Hands-on)
+  [189] (bm25            ) Praktikant (m/w/d) Human Resources am Standort Frankfurt am 
+  [190] (bm25            ) Praktikant (m/w/d) Human Resources am Standort Leipzig
+  [208] (bm25,lsa        ) Praktikant im Bereich Business Development (m/w/d)
+  [231] (bm25,tfidf      ) Praktikum im Bereich Influencer Marketing und Social Media
+  [238] (lsa             ) Werkstudent Sales (m/w/d)
+  [241] (lsa             ) Werkstudent (m/w/d) im (Online) Marketing
+  [246] (tfidf           ) Creator Marketing Coordinator (m/w/d)
+  [247] (tfidf           ) Influencer Marketing Manager (m/w/d)
+
+======================================================================
+QUERY: koch gastronomie
+======================================================================
+  [ 70] (bm25,lsa,tfidf  ) Steuerberater (m/w/d) in Gemmrigheim, auf Wunsch mit Partner
+  [ 71] (bm25,lsa,tfidf  ) Steuerberater (m/w/d) in Remseck, auf Wunsch mit Partnerpers
+  [ 72] (bm25,lsa,tfidf  ) Steuerberater (m/w/d) in Isen, auf Wunsch mit Partnerperspek
+  [ 73] (bm25,tfidf      ) Steuerberater (m/w/d) in Küssaberg, auf Wunsch mit Partnerpe
+  [ 74] (bm25,lsa,tfidf  ) Steuerberater (m/w/d) in Surberg, auf Wunsch mit Partnerpers
+  [ 75] (bm25,lsa,tfidf  ) Steuerberater (m/w/d) in Morbach, auf Wunsch mit Partnerpers
+  [ 76] (bm25,lsa,tfidf  ) Steuerberater (m/w/d) in Frankenheim, auf Wunsch mit Partner
+  [209] (lsa             ) Steuerberater (m/w/d) in Würzburg, auf Wunsch mit Partnerper
+  [212] (lsa             ) Steuerberater (m/w/d) in Steinach, auf Wunsch mit Partnerper
+  [251] (bm25,lsa,tfidf  ) Schädlingsbekämpfer (m/w/d) | 32.000 - 45.000 € + Dienstwage
+  [253] (bm25,lsa,tfidf  ) Schädlingsbekämpfer (m/w/d) | 32.000 - 45.000 € + Dienstwage
+  [284] (bm25,tfidf      ) Senior Consultant IT & Development (Inhouse) (w/m/d)
+
+======================================================================
+QUERY: buchhaltung finanzen
+======================================================================
+  [ 15] (bm25,lsa,tfidf  ) Performance Marketing Manager/in (m/w/d) - SEA / Googel Ads
+  [ 16] (bm25,lsa,tfidf  ) Community Marketing Manager/in / Brand Evangelist (m/w/d)
+  [ 18] (bm25,lsa,tfidf  ) Data Analyst / Analytics Engineer (m/w/d)
+  [ 19] (bm25,lsa,tfidf  ) IT-Systemadministrator (m/w/d) Vollzeit
+  [ 20] (bm25,lsa,tfidf  ) Technical Support & Onboarding Lead - Rechnungsmodul (m/w/d)
+  [ 29] (bm25,lsa,tfidf  ) Mitarbeiter (m/w/d) Buchhaltung / Lohnbuchhaltung (50/50)
+  [ 32] (lsa             ) Senior Accountant / Bilanzbuchhalter (m/w/d)
+  [115] (tfidf           ) Sachbearbeiter Buchhaltung (m/w/d)
+  [143] (bm25            ) Senior Real Estate Investment Sales Advisor (d/w/m)
+  [158] (bm25,tfidf      ) Praktikant/in Executive Search & Recruiting (3 Monate)
+  [182] (lsa             ) Bilanzbuchhalter / Senior Accountant (m/w/d)
+  [193] (bm25,lsa,tfidf  ) WEG-Buchhalter (m/w/d) Zahlengeist mit Herz gesucht!
+  [236] (bm25,lsa,tfidf  ) Finance Manager (m/w/d)
+
+======================================================================
+QUERY: logistik lagermitarbeiter
+======================================================================
+  [ 12] (lsa             ) Junior Consultant IT-Projektmanagement - Schwerpunkt Require
+  [ 13] (lsa             ) Senior Frontend Developer mit Schwerpunkt UX/UI-Design*
+  [ 54] (lsa             ) Frontend-/UI-Entwickler React & Ionic (m/w/d)
+  [127] (bm25,lsa,tfidf  ) (Senior) Frontend Web Developer (w/m/d)
+  [169] (bm25,lsa,tfidf  ) Mini-Job / Werkstudent (m/w/d) in der IT-Montage
+  [171] (lsa             ) Key Account Manager:in / Vorstellung auf Entscheidungsträger
+  [208] (bm25,tfidf      ) Praktikant im Bereich Business Development (m/w/d)
+  [240] (bm25,lsa,tfidf  ) Minijobber für Versand und Logistik (m/w/d)
+  [267] (lsa             ) SAP Lead Consultant (m/w/d) SAP Transformation & Digital Sup
+  [270] (bm25,lsa,tfidf  ) SAP Logistik Consultant (m/w/d)
+  [280] (bm25,lsa,tfidf  ) Junior Projektmanager / Teilprojektleiter (m/w/d) Produktion

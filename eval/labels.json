@@ -1,0 +1,46 @@
+[
+  {
+    "query": "machine learning intern",
+    "relevant": [8, 21, 235]
+  },
+  {
+    "query": "ml intern",
+    "relevant": [8, 31]
+  },
+  {
+    "query": "werkstudent python",
+    "relevant": [65, 84, 146, 169, 198, 274]
+  },
+  {
+    "query": "python developer intern",
+    "relevant": [65, 84, 146]
+  },
+  {
+    "query": "working student ai engineer",
+    "relevant": [31, 62, 109, 235, 256]
+  },
+  {
+    "query": "java developer intern",
+    "relevant": [14, 93, 94, 218, 223]
+  },
+  {
+    "query": "softwareentwickler",
+    "relevant": [14, 94, 197, 218, 243]
+  },
+  {
+    "query": "entwickler berlin",
+    "relevant": [13, 14, 54, 93, 94, 109, 243]
+  },
+  {
+    "query": "praktikum marketing",
+    "relevant": [112, 231, 241]
+  },
+  {
+    "query": "buchhaltung finanzen",
+    "relevant": [29, 32, 115, 182, 193, 236]
+  },
+  {
+    "query": "logistik lagermitarbeiter",
+    "relevant": [240]
+  }
+]
